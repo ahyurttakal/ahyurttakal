@@ -1,4 +1,4 @@
-<h1 align="center">Assoc. Prof. Dr. Ahmet Haşim YURTTAKAL</h1>
+<h1 align="center">Ahmet Haşim YURTTAKAL</h1>
 <h3 align="center">Associate Professor of Computer Engineering | Artificial Intelligence | Cyber Security</h3>
 <p align="center"><i>Advancing research in Artificial Intelligence and Cyber Security through interdisciplinary innovation.</i></p>
 <p align="center">
