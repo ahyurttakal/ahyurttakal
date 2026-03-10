@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ahyurttakal">ahyurttakal</a> </p>
 
-- 🔭 I’m currently working on [Afyon Kocatepe University, Department of Computer Engineering](https://bilgisayar.aku.edu.tr/)
+- I’m currently working on [Afyon Kocatepe University, Department of Computer Engineering](https://bilgisayar.aku.edu.tr/)
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence and Cyber Security**
+- I’m looking to collaborate on **Artificial Intelligence and Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahyurttakal](https://github.com/ahyurttakal)
+- All of my projects are available at [https://github.com/ahyurttakal](https://github.com/ahyurttakal)
 
-- 📝 I regularly write articles on [https://ahyurttakal.com/](https://ahyurttakal.com/)
+- I regularly write articles on [https://ahyurttakal.com/](https://ahyurttakal.com/)
 
-- 📫 How to reach me **info@ahyurttakal.com**
-
-- ⚡ Fun fact **I think I am funny:)**
+- How to reach me **info@ahyurttakal.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
