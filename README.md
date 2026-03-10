@@ -29,20 +29,16 @@
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CihanOzden9&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CihanOzden9&layout=compact&theme=tokyonight&hide_border=true&title_color=00d1ff&text_color=ffffff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahyurttakal&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahyurttakal&layout=compact&theme=tokyonight&hide_border=true&title_color=00d1ff&text_color=ffffff" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CihanOzden9&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahyurttakal&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CihanOzden9&color=00d1ff&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=ahyurttakal&color=00d1ff&style=flat-square&label=PROFILE+VIEWS" />
 </div>
-
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahyurttakal&show_icons=true&locale=en&layout=compact" alt="ahyurttakal" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahyurttakal&show_icons=true&locale=en" alt="ahyurttakal" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahyurttakal&" alt="ahyurttakal" /></p>
