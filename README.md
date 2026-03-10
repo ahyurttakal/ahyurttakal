@@ -1,31 +1,29 @@
-<h1 align="center">Hi 👋, I'm Assoc. Prof. Dr. Ahmet Haşim YURTTAKAL</h1>
-<h3 align="center">Computer Engineer | Artificial Intelligence | Cyber Security</h3>
-
+<h1 align="center">Assoc. Prof. Dr. Ahmet Haşim YURTTAKAL</h1>
+<h3 align="center">Associate Professor of Computer Engineering | Artificial Intelligence | Cyber Security</h3>
+<p align="center"><i>Advancing research in Artificial Intelligence and Cyber Security through interdisciplinary innovation.</i></p>
 <p align="center">
   <a href="https://bilgisayar.aku.edu.tr/" target="_blank" rel="noreferrer">Afyon Kocatepe University</a> •
-  <a href="https://ahyurttakal.com/" target="_blank" rel="noreferrer">Website</a> •
+  <a href="https://ahyurttakal.com/" target="_blank" rel="noreferrer">Personal Website</a> •
   <a href="https://github.com/ahyurttakal" target="_blank" rel="noreferrer">GitHub</a>
 </p>
 
 ---
 
-<h3 align="center">About Me</h3>
+<h3 align="center">About</h3>
 
 <p align="center">
-I am an Associate Professor in the Department of Computer Engineering at 
-<a href="https://bilgisayar.aku.edu.tr/" target="_blank" rel="noreferrer">Afyon Kocatepe University</a>.  
-My research and professional interests focus on <b>Artificial Intelligence</b> and <b>Cyber Security</b>.  
-I am open to academic and interdisciplinary collaborations in these areas.  
+I am an Associate Professor in the Department of Computer Engineering at
+<a href="https://bilgisayar.aku.edu.tr/" target="_blank" rel="noreferrer">Afyon Kocatepe University</a>.
+My academic and professional interests focus on <b>Artificial Intelligence</b>,
+<b>Cyber Security</b>, and interdisciplinary research at the intersection of these fields.
+I am open to scholarly collaborations, research projects, and international academic partnerships.
 </p>
 
 <p align="center">
-📌 All of my projects are available at  
-<a href="https://github.com/ahyurttakal" target="_blank" rel="noreferrer">github.com/ahyurttakal</a>
-</p>
-
-<p align="center">
-📝 I regularly publish content at  
-<a href="https://ahyurttakal.com/" target="_blank" rel="noreferrer">ahyurttakal.com</a>
+All of my projects are available at
+<a href="https://github.com/ahyurttakal" target="_blank" rel="noreferrer">github.com/ahyurttakal</a>.
+I also regularly publish articles and academic content on
+<a href="https://ahyurttakal.com/" target="_blank" rel="noreferrer">ahyurttakal.com</a>.
 </p>
 
 <p align="center">
@@ -48,7 +46,7 @@ I am open to academic and interdisciplinary collaborations in these areas.
 
 ---
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Programming Languages</h3>
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
