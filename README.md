@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Assoc. Prof. Dr. Ahmet Haşim YURTTAKAL</h1>
 <h3 align="center">A passionate computer engineer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahyurttakal&label=Profile%20views&color=0e75b6&style=flat" alt="ahyurttakal" /> </p>
 
 ### About
 
