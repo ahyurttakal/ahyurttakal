@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahyurttakal&label=Profile%20views&color=0e75b6&style=flat" alt="ahyurttakal" /> </p>
 
-<p align="left"> <a href="https://github.com/ahyurttakal">ahyurttakal</a> </p>
-
 - I’m currently working on [Afyon Kocatepe University, Department of Computer Engineering](https://bilgisayar.aku.edu.tr/)
 
 - I’m looking to collaborate on **Artificial Intelligence and Cyber Security**
