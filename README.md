@@ -19,13 +19,6 @@ I am open to scholarly collaborations, research projects, and international acad
 </p>
 
 <p align="center">
-All of my projects are available at
-<a href="https://github.com/ahyurttakal" target="_blank" rel="noreferrer">github.com/ahyurttakal</a>.
-I also regularly publish articles and academic content on
-<a href="https://ahyurttakal.com/" target="_blank" rel="noreferrer">ahyurttakal.com</a>.
-</p>
-
-<p align="center">
 📫 Contact: <b>info@ahyurttakal.com</b>
 </p>
 
