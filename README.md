@@ -3,7 +3,7 @@
 <p align="center"><i>Advancing research in Artificial Intelligence and Cyber Security through interdisciplinary innovation.</i></p>
 <p align="center">
   <a href="https://bilgisayar.aku.edu.tr/" target="_blank" rel="noreferrer">Afyon Kocatepe University</a> •
-  <a href="https://ahyurttakal.github.io/index.html" target="_blank" rel="noreferrer">Personal Website</a> 
+  <a href="https://ahyurttakal.com" target="_blank" rel="noreferrer">Personal Website</a> 
 </p>
 
 ---
