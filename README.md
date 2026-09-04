@@ -19,7 +19,7 @@ I am open to scholarly collaborations, research projects, and international acad
 </p>
 
 <p align="center">
-📫 Contact: <b>info@ahyurttakal.com</b>
+📫 Contact: <b>ahyurttakal@aku.edu.tr</b>
 </p>
 
 ---
