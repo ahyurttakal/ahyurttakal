@@ -27,10 +27,6 @@ My academic and professional interests focus on <b>Artificial Intelligence</b>,
   <a href="https://linkedin.com/in/ahyurttakal/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="42" />
   </a>
- &nbsp;&nbsp;
-  <a href="https://youtube.com/@ahyurttakal" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="32" width="42" />
-  </a>
 </p>
 
 
