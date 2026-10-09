@@ -1,12 +1,11 @@
 <h1 align="center">Ahmet Haşim YURTTAKAL</h1>
-<h3 align="center">Assoc. Prof. of Comp. Eng. | AI | CS</h3>
+<h3 align="center">Assoc. Prof. of Comp. Eng. | AI </h3>
 
 
 <p align="center">
 I am an Associate Professor in the Department of Computer Engineering at
 <a href="https://bilgisayar.aku.edu.tr/" target="_blank" rel="noreferrer">Afyon Kocatepe University</a>.
-My academic and professional interests focus on <b>Artificial Intelligence</b>,
-<b>Cyber Security</b>, and interdisciplinary research at the intersection of these fields.
+My academic and professional interests focus on <b>Artificial Intelligence</b>, and interdisciplinary research at the intersection of data mining.
 </p>
 
 <p align="center">
