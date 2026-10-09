@@ -1,5 +1,5 @@
 <h1 align="center">Ahmet Haşim YURTTAKAL</h1>
-<h3 align="center">Assoc. Prof. of Comp. Eng. | AI </h3>
+<h3 align="center">Assoc. Prof. of Comp. Eng. </h3>
 
 
 <p align="center">
